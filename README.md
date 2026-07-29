@@ -1,12 +1,18 @@
 # **Panadería Sweet Bread** 🥐
-Este es un proyecto de práctica enfocado en la construcción de **interfaces gráficas de usuario (GUI)** e implementación de **lógica de compras en tiempo real** utilizando Java y Swing.
+Este es un proyecto de práctica donde desarrollé una **interfaz gráfica de usuario (GUI)** con la implementación de **lógica de compras en tiempo real** utilizando Java y Swing.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
+<img width="1091" height="791" alt="image" src="https://github.com/user-attachments/assets/3cfeb7b1-fce0-4a25-a5ad-4586725fae00" />
+
+
+
+
+
 ## ¿Cómo funciona la aplicación?
 
-La aplicación simula un punto de venta interactivo para una panadería, estructurado en tres categorías principales: **Postres, Panes y Bebidas**.
+La aplicación te permite navegar entre 3 categorías: **Panes, Postres y Bebidas**.
 
 1. **Navegación por Catálogo:** El usuario puede alternar visualmente entre las vistas de Postres, Panes y Bebidas mediante el menú lateral.
 2. **Cálculo de Precios Unitaros:** Al seleccionar un producto en el menú desplegable (`JComboBox`) e ingresar una cantidad, el sistema asigna el precio correspondiente usando estructuras de control (`switch`).
@@ -19,6 +25,6 @@ La aplicación simula un punto de venta interactivo para una panadería, estruct
 ##  Características
 
 * **Interfaz Intuitiva:** Componentes gráficos Swing (`JFrame`, `JPanel`, `JButton`, `JTextField`, `JComboBox`).
-* **Apoyo Visual:** Ilustraciones  para cada producto dentro del menú.
-* **Lógica de Negocio:** Eventos escuchadores (`ActionListener`) para procesar cálculos matemáticos y concatenación de cadenas en el reporte final.
+* **Apoyo Visual:** Integración de imágenes estáticas para hacer el menú más visual y amigable.
+* **Eventos:** Manejo de clics e interacciones mediante `ActionListener`.
 * **Feedback al Usuario:** Uso de cuadros de diálogo contextuales (`JOptionPane`) para mostrar resúmenes de cuenta y alertas de selección.
