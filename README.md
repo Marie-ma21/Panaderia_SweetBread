@@ -3,8 +3,6 @@ Este es un proyecto de práctica enfocado en la construcción de **interfaces gr
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
-![Estado](https://img.shields.io/badge/Estado-Proyecto_de_Práctica-blue?style=for-the-badge)
-
 
 ## ¿Cómo funciona la aplicación?
 
