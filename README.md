@@ -4,12 +4,6 @@ Este es un proyecto de práctica donde desarrollé una **interfaz gráfica de us
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
-<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/3cfeb7b1-fce0-4a25-a5ad-4586725fae00" />
-
-
-
-
-
 ## ¿Cómo funciona la aplicación?
 
 La aplicación te permite navegar entre 3 categorías: **Panes, Postres y Bebidas**.
